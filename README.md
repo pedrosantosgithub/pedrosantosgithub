@@ -8,4 +8,4 @@
   
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Pedro Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosantosgithub&show_icons=true&theme=radical)
