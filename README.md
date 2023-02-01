@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Pedro Santos 🖐
 
 - 🔭 Hoje trabalho na area de Auxiliar de T.I
-- 📙 Estudando Enganheria de Software
+- 📙 Estudando Engenharia de Software
 
 
 <a href="https://github.com/pedrosantosgithub.com">
