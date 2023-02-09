@@ -7,9 +7,16 @@
 
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=wavingcolor=00088&heigth=120&section=header"/>
+
+
+
+
+
+
 
 <a href="https://github.com/pedrosantosgithub.com">
- <br>
+ 
 <img height="153em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantosgithub&layout=compact&langs_count=168theme=dracula"/>
   
   
