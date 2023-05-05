@@ -1,7 +1,9 @@
-
-
+# 💫 Sobre mim:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E22CE1=&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+🙋‍♂️)](https://git.io/typing-svg)
-
+👨🏻‍💻 Cursando Engenharia de Software.<br>💻 Apaixonado por programação<br>🔭 Tenho como hobbies estudar sobre fisica, astronomia, etc... <br>🖥️ Aprimorando meus conhecimentos em HTML | CSS | JS | <br>🍀 Em busca do primeiro emprego como Dev. 
+<br>
+<br>
+# 💢 Estatísticas
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedrosantosgithub&bg_color=0d1117&color=F85DF9&line=F821FA&point=D91BE8C&area=true&hide_border=true)](https://github.com/pedrosantosgithub/github-readme-activity-graph)
 
   
@@ -10,9 +12,5 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantosgithub&layout=compact&hide_border=true&title_color=FF5BFF&text_color=00BFFF&bg_color=0d1117" />
 </div>
   
-<H1 text-align="center">Tecnologias que uso no meu dia! (Por enquanto)
-  <div aling="center">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
+# 💻 Tecnologias:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
