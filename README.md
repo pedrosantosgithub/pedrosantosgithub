@@ -4,7 +4,8 @@
 <br>
 <br>
 # 💢 Estatísticas
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedrosantosgithub&bg_color=0d1117&color=F85DF9&line=F821FA&point=D91BE8C&area=true&hide_border=true)](https://github.com/pedrosantosgithub/github-readme-activity-graph)
+
+
 
   
 <div align="center">  
