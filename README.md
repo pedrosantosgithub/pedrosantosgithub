@@ -18,4 +18,4 @@
 
 #  👩‍💻 Projetos:
 
-<p><a href="https://pedrosantosgithub.github.io/ExerciciosCursoEmVideo/ex002/">Verificador de idade Curso em Video (Design melhorado) </a></p>
+<p><a href target="_blank"="https://pedrosantosgithub.github.io/ExerciciosCursoEmVideo/ex002/">Verificador de idade Curso em Video (Design melhorado) </a></p>
