@@ -22,4 +22,5 @@
 <ul>
  <li><p><a href="https://pedrosantosgithub.github.io/ExerciciosCursoEmVideo/ex002/" target="_blank">Verificador de idade Curso em Video (Design melhorado) </a></p></li>
  <li><p><a href="https://pedrosantosgithub.github.io/projeto-login/index.html" target="blank">Projeito de Tela de Login Modulo 4 do Curso em Video </a></p></li>
+ <li><p><a href="https://pedrosantosgithub.github.io/ExerciciosCursoEmVideo/Ex003/index.html">Vamos contar!</a></p></li>
 </ul>
